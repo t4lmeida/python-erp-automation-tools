@@ -48,5 +48,5 @@ python validador_cadastral.py
 
 The script will display a real-time progress monitor in the terminal and, upon completion, generate an Auditoria_Cadastral.xlsx file containing the validation results.
 
-###Security Note:
+### Security Note:
 This repository includes a .gitignore file that prevents .env files and .xlsx data exports from being committed. Never upload real customer data or database passwords to GitHub.
