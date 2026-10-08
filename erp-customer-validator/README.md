@@ -30,7 +30,8 @@ Make sure you have Python installed. Clone this repository and install the requi
 ```bash
 git clone [https://github.com/t4lmeida/python-erp-automation-tools/erp-customer-validator.git](https://github.com/t4lmeida/python-erp-automation-tools/erp-customer-validator.git)
 cd erp-customer-validator
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 *  Rename the .env.example file to .env
 *  Fill in your local or testing database credentials inside the .env file:
