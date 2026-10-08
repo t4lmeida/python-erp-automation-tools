@@ -1,0 +1,29 @@
+# ==========================================
+# SECURITY & ENVIRONMENT VARIABLES
+# ==========================================
+# Ignore the environment variables file containing database credentials
+.env
+
+# ==========================================
+# SENSITIVE DATA & SPREADSHEETS
+# ==========================================
+# Ignore Excel and CSV files to prevent customer data leaks (LGPD/GDPR compliance)
+*.xlsx
+*.xls
+*.csv
+
+# ==========================================
+# PYTHON TEMPORARY FILES
+# ==========================================
+# Ignore Python cache directories and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# ==========================================
+# VIRTUAL ENVIRONMENTS
+# ==========================================
+# Ignore virtual environment folders
+venv/
+.venv/
+env/
