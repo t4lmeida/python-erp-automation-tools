@@ -14,9 +14,9 @@ The primary business objective across these modules is to reduce manual administ
 ## 📁 Repository Structure & Modules
 
 | Module | Description | Business Impact |
+|--------|-------------|-----------------|
 | **`zpl-label-preview-tool/`** | Python desktop application integrating with REST APIs to render and edit ZPL (Zebra) labels. | Eliminated IT support dependency for shipping label adjustments; reduced printing errors. |
 | **`erp-financial-extractors/`** | Data extraction scripts converting raw HTML/System data into structured formats. | Automated payroll and financial reporting, reducing manual closing time. |
 | **`voip-click2call/`** | API integration script for Yealink IP phones. | Enabled 1-click calling directly from PC, optimizing operational efficiency. |
-
 ---
 *Developed by **Thiago Oliveira Almeida** - IT & Infrastructure Analyst | Data Science Student*
